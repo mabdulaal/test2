@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello Embinux!\n");
+    printf("Test");
     return 0;
 }
